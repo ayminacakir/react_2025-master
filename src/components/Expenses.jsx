@@ -30,7 +30,6 @@ function Expenses(expenses){
         amount={expenses.items[3].amount}
       ></ExpenseItem>
 
-
     </Card>
 
     );
